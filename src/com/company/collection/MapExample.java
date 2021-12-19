@@ -13,7 +13,6 @@ public class MapExample {
         System.out.println(map);
 
         Map map1 = new HashMap<>();
-        map1.put("Test", "Nepal");
-        map1.put(91, "India");
+        map1.put(91, "Africa");
     }
 }
